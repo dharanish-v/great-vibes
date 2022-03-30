@@ -1,5 +1,5 @@
-import React, { EventHandler, useState } from "react";
-import logo from "./logo.svg";
+import React, { useState } from "react";
+
 import "./Registration.css";
 
 type formData = {
